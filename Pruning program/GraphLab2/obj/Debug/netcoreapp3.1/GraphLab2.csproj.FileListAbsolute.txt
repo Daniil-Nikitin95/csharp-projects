@@ -1,0 +1,80 @@
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.exe
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.deps.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.dev.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.dll
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.pdb
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.AssemblyReference.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.Form1.resources
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.GenerateResource.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfoInputs.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfo.cs
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.CoreCompileInputs.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.dll
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.pdb
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.genruntimeconfig.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.exe
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.deps.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.dev.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.dll
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.pdb
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.AssemblyReference.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.Form1.resources
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.GenerateResource.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfoInputs.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfo.cs
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.CoreCompileInputs.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.dll
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.pdb
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab2 — копия\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.genruntimeconfig.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.exe
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.deps.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.dev.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.AssemblyReference.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.Form1.resources
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.GenerateResource.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfoInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfo.cs
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.CoreCompileInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.genruntimeconfig.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.exe
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.deps.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.dev.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.AssemblyReference.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.Form1.resources
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.GenerateResource.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfoInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfo.cs
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.CoreCompileInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab2\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.genruntimeconfig.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.exe
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.deps.json
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.json
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.runtimeconfig.dev.json
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.dll
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\bin\Debug\netcoreapp3.1\GraphLab2.pdb
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.AssemblyReference.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.Form1.resources
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.GenerateResource.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfoInputs.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.AssemblyInfo.cs
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.csproj.CoreCompileInputs.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.dll
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.pdb
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab7 Pruning program\GraphLab2\obj\Debug\netcoreapp3.1\GraphLab2.genruntimeconfig.cache

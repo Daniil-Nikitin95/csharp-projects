@@ -1,0 +1,64 @@
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.exe
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.deps.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.dev.json
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.dll
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.pdb
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.AssemblyReference.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.Form1.resources
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.GenerateResource.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfoInputs.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfo.cs
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.CoreCompileInputs.cache
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.dll
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.pdb
+C:\Users\rieze\Desktop\Учёба\7 семестр\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.genruntimeconfig.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.exe
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.deps.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.dev.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.AssemblyReference.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.Form1.resources
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.GenerateResource.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfoInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfo.cs
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.CoreCompileInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Геометрия\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.genruntimeconfig.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.exe
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.deps.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.dev.json
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.AssemblyReference.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.Form1.resources
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.GenerateResource.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfoInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfo.cs
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.CoreCompileInputs.cache
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.dll
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.pdb
+D:\Дисциплины Семестр 7\Должиков Компьютерная геометрия и графика\Новая папка\GraphLab1\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.genruntimeconfig.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.exe
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.deps.json
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.json
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.runtimeconfig.dev.json
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.dll
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\bin\Debug\netcoreapp3.1\GraphLab1.pdb
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.AssemblyReference.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.Form1.resources
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.GenerateResource.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfoInputs.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.AssemblyInfo.cs
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.csproj.CoreCompileInputs.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.dll
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.pdb
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab6 Rotation of a straight line segment by an arbitrary angle relative to a given point\GraphLab1\obj\Debug\netcoreapp3.1\GraphLab1.genruntimeconfig.cache

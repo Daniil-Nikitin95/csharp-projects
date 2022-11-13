@@ -1,0 +1,56 @@
+D:\C#\Алгоритмы обработки символьных строк\1\1\bin\Debug\1.exe.config
+D:\C#\Алгоритмы обработки символьных строк\1\1\bin\Debug\1.exe
+D:\C#\Алгоритмы обработки символьных строк\1\1\bin\Debug\1.pdb
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.csprojAssemblyReference.cache
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\_1.Form1.resources
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\_1.Properties.Resources.resources
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.exe
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.pdb
+D:\C#\Алгоритмы обработки символьных строк\1\1\obj\Debug\_1.Form2.resources
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\bin\Debug\1.exe.config
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\bin\Debug\1.exe
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\bin\Debug\1.pdb
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\_1.Form1.resources
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\_1.Form2.resources
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.exe
+C:\Users\MaxD2098\Desktop\C#\c#\Алгоритмы обработки символьных строк\1\1\obj\Debug\1.pdb
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\bin\Debug\1.exe.config
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\bin\Debug\1.exe
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\bin\Debug\1.pdb
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\1.csprojAssemblyReference.cache
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\_1.Form1.resources
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\_1.Form2.resources
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\_1.Properties.Resources.resources
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\1.exe
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Макс Данилов\1\1\obj\Debug\1.pdb
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\bin\Debug\1.exe.config
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\bin\Debug\1.exe
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\bin\Debug\1.pdb
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\1.csprojAssemblyReference.cache
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\_1.Form1.resources
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\_1.Form2.resources
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\_1.Properties.Resources.resources
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\1.exe
+D:\Дисциплины Семестр 7\Должиков Программирование на C#\Лаб 5 Алгоритмы обработки символьных строк\Lab 5\1\1\obj\Debug\1.pdb
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\bin\Debug\1.exe.config
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\bin\Debug\1.exe
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\bin\Debug\1.pdb
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\_1.Form1.resources
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\_1.Form2.resources
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\_1.Properties.Resources.resources
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\1.exe
+D:\Мое IT резюме\Github\Для загрузки\csharp-projects\Lab5 Algorithms for processing character strings\1\obj\Debug\1.pdb

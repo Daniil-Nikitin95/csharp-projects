@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLab5", "GraphLab5\GraphLab5.csproj", "{BFBA81F2-4E29-4966-ADD7-17F089C7EDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBA81F2-4E29-4966-ADD7-17F089C7EDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBA81F2-4E29-4966-ADD7-17F089C7EDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBA81F2-4E29-4966-ADD7-17F089C7EDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBA81F2-4E29-4966-ADD7-17F089C7EDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39496F45-F8CB-4BD6-8C52-D9DCAEB40C44}
+	EndGlobalSection
+EndGlobal
